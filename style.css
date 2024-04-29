@@ -94,6 +94,10 @@ h3 {
     font-family: "Jersey 15 Charted", sans-serif;
 }
 
+.msg-container {
+    /* height: 40vmin; */
+}
+
 .hide {
     display: none;
 }
