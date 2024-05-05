@@ -1,8 +1,7 @@
 /* @import url('https://fonts.googleapis.com/css2?family=Jersey+15+Charted&display=swap'); */
 
-a:focus,
-button:focus {
-    outline: none;
+* {
+    -webkit-tap-highlight-color: transparent;
 }
 
 body {
